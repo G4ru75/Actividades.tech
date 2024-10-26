@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+
+header{
+	background-color: #8e9fb4; 
+	text-align: center; 
+	padding: 1em; 
+}
+
+h1{
+    color: black; 
+    font-size: 58px; 
+    font-family: 'Times New Roman', Times, serif; 
+    text-align: center;
+    font-style: oblique;
+}
+
+p{
+    color: gray;
+     font-size: 24px; 
+     font-family: 'Courier New', Courier, monospace;
+      text-align: center; 
+      font-style: italic;
+      margin: 10px;
+}
+
+img{
+    display: block; 
+    margin: auto;
+    width: 700px;
+    height: 350px;
+}
