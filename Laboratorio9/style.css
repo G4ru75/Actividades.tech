@@ -5,7 +5,25 @@ header{
 }
 
 nav ul li{
+	text-align: center;
 	display: inline;
 	margin: 30px;
 	color: #8e9fb4;
+}
+
+h1{
+	color: white;
+}
+
+.parrafo{
+	background-color: black;
+	border-radius: 8px;
+	font-family: 'Courier New', Courier, monospace;
+	font-style: oblique;
+}
+
+footer{
+	background-color: #8e9fb4;
+	text-align: center;
+	padding: 1em;
 }
