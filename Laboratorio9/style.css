@@ -3,3 +3,9 @@ header{
 	text-align: center; 
 	padding: 1em; 
 }
+
+nav ul li{
+	display: inline;
+	margin: 30px;
+	color: #8e9fb4;
+}
